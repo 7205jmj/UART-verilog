@@ -1,2 +1,2 @@
 # UART-verilog
-degin the uart protocol  using verilog 
+desgin the uart protocol  using verilog 
